@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Abhi\Documents\Play\helloWorld\app\views\about.scala.html:18:14: not found: value message[0m
+[0m[[0m[31merror[0m] [0m[0m        <h2>@message</h2>[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
