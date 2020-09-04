@@ -1,6 +1,6 @@
-# play-java-starter-example
+# Play Framework Tutorial
 
-This is a starter application that shows how Play works.  Please see the documentation at https://www.playframework.com/documentation/latest/Home for more details.
+Going through MVC design pattern in the Play Framework for Java
 
 ## Running
 
